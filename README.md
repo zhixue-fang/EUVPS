@@ -8,7 +8,7 @@
 ![block images](figures/overview.jpg)
 
 ## Installation
-See [installation instructions](INSTALL.md).
+See [installation instructions](INSTALL.md). Please try to follow the instructions to install. The process seems a little complex (🤡-> me <-🤡). 
 
 ## Dataset Preparation
 You can request SUN-SEG dataset [here](https://github.com/GewelsJI/VPS.git), and CVC-612 dataset [here](https://polyp.grand-challenge.org/CVCClinicDB/).
